@@ -1,0 +1,11 @@
+{
+  "AZURE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;...",
+  "SNOWFLAKE": {
+    "user": "YOUR_USERNAME",
+    "password": "YOUR_PASSWORD",
+    "account": "YOUR_ACCOUNT",
+    "warehouse": "YOUR_WAREHOUSE",
+    "database": "YOUR_DATABASE",
+    "schema": "YOUR_SCHEMA"
+  }
+}
